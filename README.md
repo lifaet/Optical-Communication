@@ -9,6 +9,7 @@ Here in this project, we will be demonstrating Li-Fi communication using two Ard
  3. Breadboard
  4. Connecting Jumpers
  5. 5 mm LED
+ 6. LCD display (Optional)
 
 # Circuit Diagram
 ![Circuit-Diagram](https://raw.githubusercontent.com/lifaet/Optical-Communication/main/Circuit-Diagram.png)
