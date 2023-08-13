@@ -11,6 +11,6 @@ Here in this project, we will be demonstrating Li-Fi communication using two Ard
  5. 5 mm LED
 
 # Circuit Diagram
-![Circuit-Diagram](https://github.com/lifaet/Optical-Communication/assets/74178139/fe1f676b-40a4-4bad-9d26-f1b20d378637)
+![Circuit-Diagram](https://raw.githubusercontent.com/lifaet/Optical-Communication/main/Circuit-Diagram.png)
 
 
