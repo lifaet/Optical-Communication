@@ -13,14 +13,14 @@ void loop()
     sendBit = Serial.read();
   }
 
-  if (sendBit == '1')
+  if (sendBit == '0')
   {
     digitalWrite(8, HIGH);
     delay(10);
     digitalWrite(8, LOW);
     Serial.println("'0' Send");
   }
-  else if (sendBit == '0')
+  else if (sendBit == '1')
   {
     digitalWrite(8, HIGH);
     delay(20);
