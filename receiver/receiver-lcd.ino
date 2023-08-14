@@ -18,12 +18,12 @@ void loop() {
   if (duration) {
     Serial.println(duration);
   }
-  if (duration > 9800 && duration < 15000)
+  if (duration > 10000 && duration < 18000)
   {
     lcd.setCursor(0, 0);
     lcd.print("Received:0");
   }
-  else if (duration > 18000 && duration < 25000)
+  else if (duration > 20000 && duration < 28000)
   {
     lcd.setCursor(0, 0);
     lcd.print("Received:1");
