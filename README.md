@@ -8,7 +8,7 @@ Here in this project, we will be demonstrating Li-Fi communication using two Ard
  2. LDR Sensor
  3. Breadboard
  4. Connecting Jumpers
- 5. 5 mm LED
+ 5. LED
  6. LCD display (Optional)
 
 # Circuit Diagram
