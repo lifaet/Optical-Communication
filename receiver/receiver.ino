@@ -1,7 +1,6 @@
 void setup() {
   pinMode(8, INPUT);
   Serial.begin(9600);
-  delay(500);
 }
 
 void loop() {
@@ -9,11 +8,11 @@ void loop() {
   if (duration) {
     Serial.println(duration);
   }
-  if (duration > 9800 && duration < 15000)
+  if (duration > 10000 && duration < 18000)
   {
     Serial.println("0 Received");
   }
-  else if (duration > 18000 && duration < 25000)
+  else if (duration > 20000 && duration < 28000)
   {
     Serial.println("1 Received");
   }
