@@ -15,9 +15,6 @@ void setup() {
 
 void loop() {
   unsigned long duration = pulseIn(8, HIGH);
-  if (duration) {
-    Serial.println(duration);
-  }
   if (duration > 10000 && duration < 18000)
   {
     lcd.setCursor(0, 0);
